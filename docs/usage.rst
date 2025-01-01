@@ -35,7 +35,7 @@ Now our document contains some ``Texts``, ``Lines`` and ``Circles``, let's itera
 .. literalinclude:: example.py
    :lines: 17-18
 
-Wea can also iterate objects of concrete type:
+We can also iterate objects of concrete type:
 
 .. literalinclude:: example.py
    :lines: 20-21
